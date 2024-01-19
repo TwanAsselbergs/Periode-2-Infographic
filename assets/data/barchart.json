@@ -1,0 +1,14 @@
+{
+  "languages": [
+    { "language": "Minecraft", "experience": 300 },
+    { "language": "Grand Theft Auto V", "experience": 190 },
+    { "language": "Tetris", "experience": 100 },
+    { "language": "Wii Sports", "experience": 82 },
+    { "language": "PUBG: Battlegrounds", "experience": 75 },
+    { "language": "Mario Kart 8", "experience": 65 },
+    { "language": "Super Mario Bros.", "experience": 58 },
+    { "language": "Red Dead Redemption 2", "experience": 57 },
+    { "language": "The Witcher 3: Wild Hunt", "experience": 50.1 },
+    { "language": "Terraria", "experience": 50 }
+  ]
+}
